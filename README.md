@@ -34,8 +34,11 @@ HRMS is a comprehensive Human Resource Management System designed to streamline 
 
 ### Backend
 
-- **Python**: A versatile programming language for backend development.
-- **Django**: A high-level Python web framework for rapid development.
+- **Python**: A versatile programming language for backend development, data processing, and automation.
+- **Django**: A high-level Python web framework for rapid development, handling routing, ORM, authentication, and REST APIs.
+- **Django REST Framework (DRF)**: Toolkit for building RESTful APIs, including serialization, viewsets, and authentication.
+- **MySQL**: Relational database used for storing and querying structured data efficiently.
+- **API Development**: Designed and implemented multiple RESTful APIs to manage application data and business logic.
 
 ## Installation
 
