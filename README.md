@@ -76,9 +76,9 @@ For logging in, the HRMS supports two roles. Please use the following credential
 
 ## Screenshots
 <p align="center">
-  <img src="template/screenshot_dash.png" alt="Dashboard Screenshot" width="300">
-  <img src="template/screenshot_dash2.png" alt="Dashboard Screenshot 2" width="300">
-  <img src="template/screenshot_prof.png" alt="Profile Screenshot" width="300">
+  <img src="templates/screenshot_dash.png" alt="Dashboard Screenshot" width="300">
+  <img src="templates/screenshot_dash2.png" alt="Dashboard Screenshot 2" width="300">
+  <img src="templates/screenshot_prof.png" alt="Profile Screenshot" width="300">
 </p>
 
 ## License
